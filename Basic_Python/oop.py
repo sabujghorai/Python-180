@@ -201,4 +201,3 @@ c = int(input("Enter the marks of maths :"))
 
 s1 = Student(a,b,c)
 print(s1.percentage)
-
