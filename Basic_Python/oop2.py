@@ -14,7 +14,7 @@ class Account:
         self.acc_num = acc_num # public attribute
         self.__acc_pass = acc_pass # private attribute 
 
-     def reset_pass(self):
+    def reset_pass(self):
         print(self.__acc_pass)
 
 a = Account("123456","pass@1234")
