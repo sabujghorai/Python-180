@@ -13,3 +13,7 @@ print(float(c) + float(d)) #now it will print 6.9
 a = "4"
 b = "5"
 print(int(a)+int(b)) # now it will print 9
+
+c = "1.9"
+d = "5"
+print(float(c) + float(d)) #now it will print 6.9
