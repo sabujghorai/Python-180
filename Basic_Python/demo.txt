@@ -1,4 +1,4 @@
-Lorem ipsum dolor,
-sit amet consectetur adipisicing elit. Laboriosam ea laudantium ut blanditiis eveniet libero optio molestiae? Laborum, 
-sunt! Modi repudiandae,
-sed sunt fuga incidunt accusamus ipsa rerum esse! Non deserunt distinctio eaque ratione.
+Guido van Rossum (born 1956) is a Dutch programmer best known as the creator of the 
+[Python programming language](python.org), 
+which he began developing in late 1989 at CWI in the Netherlands. 
+As the creator, he was honored as Python's "Benevolent Dictator for Life" (BDFL) until stepping down in
