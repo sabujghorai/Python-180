@@ -89,5 +89,3 @@ slicing = a[1:7:2] # 2 step jumps
 for i in range(0,len(slicing)):
     print(slicing[i],end=" , ")
 print("\n")
-
-print("hello world")
