@@ -5,7 +5,6 @@ print("Enter 2 for difference")
 print("Enter 3 for product")
 print("Enter 4 for division")
 
-
 b = int(input("Enter a number :"))
 c = int(input("Enter another number :"))
 
