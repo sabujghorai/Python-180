@@ -5,25 +5,25 @@ print("Enter 2 for difference")
 print("Enter 3 for product")
 print("Enter 4 for division")
 
-b = int(input("Enter a number :"))
-c = int(input("Enter another number :"))
+choice = int(input("Enter the choice : "))
 
+b = int(input("Enter first number : "))
+c = int(input("Enter second number : "))
 
-choice = int(input("Enter the choice :"))
 if choice == 1:
-    print("sum is :",b+c)
+    print("Sum is :", b + c)
 
 elif choice == 2:
-    print("Difference is :",b-c)
+    print("Difference is :", b - c)
 
-elif choice ==3:
-    print("product is :",b*c)
+elif choice == 3:
+    print("Product is :", b * c)
 
 elif choice == 4:
     if c != 0:
-        print("Difference is :",b/c)
+        print("Division is :", b / c)
     else:
-        print("error division by Zero")
+        print("Error: Division by zero")
 
 else:
-    print("You have entered a wrong choice..")
+    print("You have entered a wrong choice")
