@@ -1,3 +1,4 @@
+```bash
 # 🐍 Python Learning & DSA Repository
 
 🚀 Documenting my journey of learning Python and Data Structures & Algorithms through consistent practice and problem solving.
