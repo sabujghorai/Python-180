@@ -1,4 +1,3 @@
-```bash
 Guido van Rossum (born 1956) is a Dutch programmer best known as the creator of the 
 [Python programming language](python.org), 
 which he began developing in late 1989 at CWI in the Netherlands. 
