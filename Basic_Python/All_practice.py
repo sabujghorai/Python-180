@@ -8,18 +8,30 @@
 
 # Check if a number is prime.
 
-number = (int(input("Enter the number to check the number is prime or not :")))
+# number = (int(input("Enter the number to check the number is prime or not :")))
 
-if number <= 1 :
-    print("Not prime")
+# if number <= 1 :
+#     print("Not prime")
 
-else:
-    is_prime = True
-    for i in range(2 , number):
-        if number % i == 0:
-            is_prime = False
+# else:
+#     is_prime = True
+#     for i in range(2 , number):
+#         if number % i == 0:
+#             is_prime = False
 
-    if is_prime:
-        print("Prime")
+#     if is_prime:
+#         print("Prime")
+#     else:
+#         print("not prime")
+
+
+# Find the factorial of a number.
+
+def factorial(n):
+    if n==0 or n==1:
+        return 1
     else:
-        print("not prime")
+        return n * factorial(n-1)
+
+fact = int(input("Enter the number for factorial :"))
+print("Factorial is : " , factorial(fact))
