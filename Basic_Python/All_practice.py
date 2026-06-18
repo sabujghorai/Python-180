@@ -8,9 +8,18 @@
 
 # Check if a number is prime.
 
-prime = int(input("Enter the number to check the number is prime or not : "))
+number = (int(input("Enter the number to check the number is prime or not :")))
 
-if(prime // 1 != 0 and prime // prime != 0):
-    print("The number is prime")
+if number <= 1 :
+    print("Not prime")
+
 else:
-    print("The number is not prime..")
+    is_prime = True
+    for i in range(2 , number):
+        if number % i == 0:
+            is_prime = False
+
+    if is_prime:
+        print("Prime")
+    else:
+        print("not prime")
