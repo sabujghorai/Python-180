@@ -35,3 +35,5 @@ def factorial(n):
 
 fact = int(input("Enter the number for factorial :"))
 print("Factorial is : " , factorial(fact))
+
+#  Make a simple calculator 
