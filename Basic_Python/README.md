@@ -1,85 +1,64 @@
-# 🐍 Python Learning & DSA Repository
-
-🚀 Documenting my journey of learning Python and Data Structures & Algorithms through consistent practice and problem solving.
-
-## 📌 About This Repository
-
-This repository contains my Python programming practice and learning progress.  
-I am currently following a **180 Days Coding Challenge** to improve my programming skills and build a strong foundation in **Python and Data Structures & Algorithms (DSA)**.
-
-I regularly upload programs, exercises, and problem solutions that I learn during my journey.
-
----
-
-## 📚 Topics Covered
-
-- Python Basics
-- Conditional Statements
-- Loops
-- Functions
-- Recursion
-- Data Structures
-- Trees
-- Graph
-- Problem Solving
-
----
-
-## 🎯 Goals of This Repository
-
-- Strengthen my Python programming skills  
-- Improve logical thinking and problem solving  
-- Practice Data Structures and Algorithms  
-- Maintain coding consistency  
-- Track my daily learning progress
-
----
-
-## 🛠 Technologies Used
-
-- Python 3
-- VS Code
-- Git
-- GitHub
-
----
-
-## 📂 Repository Structure
-
-Python-DSA/
-
-├── Basics  
-├── Functions  
-├── Recursion  
-├── Trees  
-├── Practice Problems  
-└── README.md
-
----
-
-## 📈 Learning Progress
-
-I am currently sharing my **daily coding progress** as part of my learning journey.
-Consistency and continuous improvement are my main goals.
-
----
-
-## ⭐ Support
-
-If you find this repository helpful or interesting, please consider **starring ⭐ the repository**.
-
----
-
-## 👨‍💻 Author
-
-**Sabuj Ghorai**
-
-Aspiring Software Developer & MlOps Engineer 
-
-Currently learning **Python & Data Structures**
-
----
-
-## 📬 Connect With Me
-
-Follow my journey and connect with me on **LinkedIn**.
+## 📈 180 Days Progress Tracker
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ -- 31.3%
+|  Day's |    Status    |
+|--------|--------------|
+| Day  1 | ✅ Completed |
+| Day  2 | ✅ Completed |
+| Day  3 | ✅ Completed |
+| Day  4 | ✅ Completed |
+| Day  5 | ✅ Completed |
+| Day  6 | ✅ Completed |
+| Day  7 | ✅ Completed |
+| Day  8 | ✅ Completed |
+| Day  9 | ✅ Completed |
+| Day 10 | ✅ Completed |
+| Day 11 | ✅ Completed |
+| Day 12 | ✅ Completed |
+| Day 13 | ✅ Completed |
+| Day 14 | ✅ Completed |
+| Day 15 | ✅ Completed |
+| Day 16 | ✅ Completed |
+| Day 17 | ✅ Completed |
+| Day 18 | ✅ Completed |
+| Day 19 | ✅ Completed |
+| Day 20 | ✅ Completed |
+| Day 21 | ✅ Completed |
+| Day 22 | ✅ Completed |
+| Day 23 | ✅ Completed |
+| Day 24 | ✅ Completed |
+| Day 25 | ✅ Completed |
+| Day 26 | ✅ Completed |
+| Day 27 | ✅ Completed |
+| Day 28 | ✅ Completed |
+| Day 29 | ✅ Completed |
+| Day 30 | ✅ Completed |
+| Day 31 | ✅ Completed |
+| Day 32 | ✅ Completed |
+| Day 33 | ✅ Completed |
+| Day 34 | ✅ Completed |
+| Day 35 | ✅ Completed |
+| Day 36 | ✅ Completed |
+| Day 37 | ✅ Completed |
+| Day 38 | ✅ Completed |
+| Day 39 | ✅ Completed |
+| Day 40 | ✅ Completed |
+| Day 41 | ✅ Completed |
+| Day 42 | ✅ Completed |
+| Day 43 | ✅ Completed |
+| Day 44 | ✅ Completed |
+| Day 45 | ✅ Completed |
+| Day 46 | ✅ Completed |
+| Day 47 | ✅ Completed |
+| Day 48 | ✅ Completed |
+| Day 49 | ✅ Completed |
+| Day 50 | ✅ Completed |
+| Day 51 | ✅ Completed |
+| Day 52 | ✅ Completed |
+| Day 53 | ✅ Completed |
+| Day 54 | ✅ Completed |
+| Day 55 | ✅ Completed |
+| Day 56 | ✅ Completed |
+| Day 57 | ✅ Completed |
+| Day 58 | ⏳ Upcoming |
+| Day 180 | ⏳ Goal |
+**Progress: 43 / 180 Days Completed**
