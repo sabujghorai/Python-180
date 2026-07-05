@@ -59,6 +59,9 @@
 | Day 55 | ✅ Completed |
 | Day 56 | ✅ Completed |
 | Day 57 | ✅ Completed |
-| Day 58 | ⏳ Upcoming |
+| Day 58 | ✅ Completed |
+| Day 59 | ✅ Completed |
+| Day 60 | ✅ Completed |
+| Day 61 | ⏳ Upcoming |
 | Day 180 | ⏳ Goal |
 **Progress: 43 / 180 Days Completed**
