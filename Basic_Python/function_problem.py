@@ -35,7 +35,7 @@ def fibonacci(n):
         fib_series.append(fib_series[-1] + fib_series[-2])
     return fib_series[:n]
 
-n = 10  # Number of terms
+n = int(input("Enter the term : "))  # Number of terms
 print(f"Fibonacci Series up to {n} terms: {fibonacci(n)}")
 
 # WAP  to print the length of a list(list is s parameter)
