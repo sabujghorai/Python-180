@@ -1,4 +1,4 @@
-  # FOR LOOPS
+# FOR LOOPS
 # for loop in list
 
 list = ["hello","world","sabuj","ghorai"]
