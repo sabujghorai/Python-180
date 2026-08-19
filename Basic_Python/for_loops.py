@@ -7,7 +7,7 @@ for i in list:
 else:
    print("END")
 
-   # we can use for loop in string also
+# we can use for loop in string also
    num = ( 1,4,63,35)
    for i in num:
       print(i)
