@@ -1,4 +1,4 @@
-# # basic syntax for a while loop
+# basic syntax for a while loop
 # count = 1
 # while count <= 10:
 #   a = "hello"
