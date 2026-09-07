@@ -1,5 +1,4 @@
 import math
-
 # WAP to calculate the LCM of two numbers
 A = int(input("Enter first number : "))
 B = int(input("Enter second number : "))
