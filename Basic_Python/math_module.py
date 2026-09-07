@@ -17,7 +17,6 @@ x1 = float(input("X1 :"))
 x2 = float(input("X2 :"))
 y1 = float(input("Y1 :"))
 y2 = float(input("Y2 :"))
-
 Distance = math.sqrt(math.pow((x2-x1),2) + math.pow((y2-y1),2))
 print(f"Distance is : {Distance}")
 
