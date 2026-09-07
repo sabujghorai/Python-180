@@ -21,7 +21,6 @@ Distance = math.sqrt(math.pow((x2-x1),2) + math.pow((y2-y1),2))
 print(f"Distance is : {Distance}")
 
 
-
 # WAP to calculate the roots of the equation
 a = int(input("Enter A :"))
 b = int(input("Enter B :"))
