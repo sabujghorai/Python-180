@@ -12,7 +12,6 @@ result = math.lcm(A,B,C,D,E,F)
 print("LCM is :",result)
 
 
-
 # WAP to calculate the distance between two coordinates 
 x1 = float(input("X1 :"))
 x2 = float(input("X2 :"))
