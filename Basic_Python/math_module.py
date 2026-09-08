@@ -36,4 +36,3 @@ if root*root == A:
     print("Perfect sqere..")
 else:
     print("Not perfect Sqere..")
-
