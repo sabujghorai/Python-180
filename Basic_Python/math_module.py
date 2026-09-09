@@ -26,7 +26,8 @@ c = int(input("Enter C :"))
 
 equation1 = (-b + math.sqrt(math.pow(b,2)- 4*a*c)) / (2*a)
 equation2 = (-b - math.sqrt(math.pow(b,2)- 4*a*c)) / (2*a)
-print(equation1,equation2)
+print(equation1)
+print(equation2)
 
 
 # WAP to determina the number is perfect sqere root or not
