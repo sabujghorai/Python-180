@@ -6,7 +6,6 @@ def show(n):
     return
   print(n)
   show(n-1) # function call
-
 show(b)
 
 # print the factorial of a number using recursion taking from user input
