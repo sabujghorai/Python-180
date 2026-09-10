@@ -231,7 +231,6 @@ class Complex:
 
 num1 = Complex(1, 3)
 num2 = Complex(3, 5)
-
 num3 = num1 + num2
 num3.showNumber()
 
