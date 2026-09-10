@@ -173,7 +173,6 @@ class Person:
 
 
 p1 = Person()
-
 p1.changeName("Akash Ghorai")
 
 print(p1.name)
