@@ -121,7 +121,6 @@ print(car1.type)
 class A:
     var1 = "good morning 1"
 
-
 class B:
     var2 = "good morning 2"
 
