@@ -328,7 +328,6 @@ s.hello()
 print(s.name)
 
 
-
 # Abstraction
 class Car:
 
