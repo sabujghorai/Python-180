@@ -124,7 +124,6 @@ class A:
 class B:
     var2 = "good morning 2"
 
-
 class C(A, B):
     var3 = "good morning 3"
 
