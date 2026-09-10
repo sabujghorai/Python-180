@@ -14,4 +14,4 @@ print(len(k)) # we can calculate the length of the string by using len function
 
 a = "sabuj ghorai"
 ch = a[4]
-print(ch) 
+print(ch)
