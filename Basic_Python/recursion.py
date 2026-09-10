@@ -23,14 +23,13 @@ print("factorial of your given number is :",fact(b))
 # print the sum of all n natural numbers
 
 n = int(input("Enter a number :"))
-
 def sum(n):
     if (n == 0 ):
         return 0
     return n+sum(n-1)
-
 print("The sum of your ",n,"th term is ",sum(n))
 print("sum of your all natural number is :",sum(b))
+
 
 # fibonacci series of n term taking input from user
 n = int(input("Enter the term :"))
