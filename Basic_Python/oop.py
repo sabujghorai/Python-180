@@ -248,7 +248,6 @@ class Car:
 
 
 s1 = Car()
-
 print(s1.car_name)
 print(s1.model_no)
 print(s1.colour)
