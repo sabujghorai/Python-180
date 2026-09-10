@@ -237,7 +237,6 @@ num3.showNumber()
 
 num4 = num1 - num2
 num4.showNumber()
-
 num5 = num1 * num2
 num5.showNumber()
 
