@@ -9,4 +9,3 @@ dict = {
 print(dict["name"])
 print(dict["age"])
 print(dict["learning"])
-print()
