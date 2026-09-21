@@ -6,6 +6,7 @@ dict = {
   "marks" : (95,91,97,85,87), # we can store tuple also
   
 }
+
 print(dict["name"])
 print(dict["age"])
 print(dict["learning"])
