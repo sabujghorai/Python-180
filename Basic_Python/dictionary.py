@@ -23,3 +23,17 @@ student = {
 }
 print(student["subject"])
 print(student["subject"]["chem"])
+
+
+
+n=int(input("enter the range: "))
+e_count=0
+o_count=0
+for i in range (1,n+1):
+    if i%2==0:
+        e_count+=1
+    else :
+        o_count+=1
+
+print(e_count)
+print(o_count)
