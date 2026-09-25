@@ -26,6 +26,7 @@ print(student["subject"]["chem"])
 
 
 
+# print how many even and odd number in the range of 1 to N .
 n=int(input("enter the range: "))
 e_count=0
 o_count=0
