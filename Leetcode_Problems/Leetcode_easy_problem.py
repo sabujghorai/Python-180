@@ -32,5 +32,3 @@ for num in nums:
     total += num
     empty_list.append(total)
 print(empty_list)
-
-
