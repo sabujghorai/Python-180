@@ -38,3 +38,11 @@ def Running_sum(nums):
     return empty_list
 
 print(Running_sum(nums))
+
+
+
+
+# 9. Palindrome Number
+
+# hint: read the number from left to right or right to left always
+# get a same number like nums = 121 , 212
