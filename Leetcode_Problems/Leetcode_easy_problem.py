@@ -1,10 +1,10 @@
 # 2235. Add Two Integers
 
 
-# sum1 = int(input("Enter a number :"))
-# sum2 = int(input("Enter another number :"))
+sum1 = int(input("Enter a number :"))
+sum2 = int(input("Enter another number :"))
 
-# print(sum1+sum2)
+print(sum1+sum2)
 
 
 
@@ -24,20 +24,20 @@
 
 
 
-# nums = [1,2,3,4]
+nums = [1,2,3,4]
 
 
-# def Running_sum(nums):
-#     empty_list = []
+def Running_sum(nums):
+    empty_list = []
 
-#     total = 0
-#     for i in range(len(nums)):
-#         total += nums[i]
-#         empty_list.append(total)
+    total = 0
+    for i in range(len(nums)):
+        total += nums[i]
+        empty_list.append(total)
 
-#     return empty_list
+    return empty_list
 
-# print(Running_sum(nums))
+print(Running_sum(nums))
 
 
 
