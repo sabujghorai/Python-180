@@ -24,20 +24,20 @@
 
 
 
-nums = [1,2,3,4]
+# nums = [1,2,3,4]
 
 
-def Running_sum(nums):
-    empty_list = []
+# def Running_sum(nums):
+#     empty_list = []
 
-    total = 0
-    for i in range(len(nums)):
-        total += nums[i]
-        empty_list.append(total)
+#     total = 0
+#     for i in range(len(nums)):
+#         total += nums[i]
+#         empty_list.append(total)
 
-    return empty_list
+#     return empty_list
 
-print(Running_sum(nums))
+# print(Running_sum(nums))
 
 
 
@@ -46,3 +46,13 @@ print(Running_sum(nums))
 
 # hint: read the number from left to right or right to left always
 # get a same number like nums = 121 , 212
+text = input("Enter here :")
+def palindrome(text):
+
+    text = text.lower()
+    if text == text[::-1]:
+        print("Palindrome")
+    else:
+        print("Not palindrome")
+
+print(palindrome(text))
