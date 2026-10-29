@@ -1,61 +1,61 @@
-# # 2235. Add Two Integers
+# 2235. Add Two Integers
 
 
-# sum1 = int(input("Enter a number :"))
-# sum2 = int(input("Enter another number :"))
+sum1 = int(input("Enter a number :"))
+sum2 = int(input("Enter another number :"))
 
-# print(sum1+sum2)
-
-
-
-# # 1480. Running Sum of 1d Array
-
-# # Hint
-# # Given an array nums. We define a 
-# # running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
-
-# # Return the running sum of nums.
-
-# # Example 1:
-
-# # Input: nums = [1,2,3,4]
-# # Output: [1,3,6,10]
-# # Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4
+print(sum1+sum2)
 
 
 
-# nums = [1,2,3,4]
+# 1480. Running Sum of 1d Array
 
+# Hint
+# Given an array nums. We define a 
+# running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
-# def Running_sum(nums):
-#     empty_list = []
+# Return the running sum of nums.
 
-#     total = 0
-#     for i in range(len(nums)):
-#         total += nums[i]
-#         empty_list.append(total)
+# Example 1:
 
-#     return empty_list
-
-# print(Running_sum(nums))
-
+# Input: nums = [1,2,3,4]
+# Output: [1,3,6,10]
+# Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4
 
 
 
-# # 9. Palindrome Number
+nums = [1,2,3,4]
 
-# # hint: read the number from left to right or right to left always
-# # get a same number like nums = 121 , 212
-# text = input("Enter here :")
-# def palindrome(text):
 
-#     text = text.lower()
-#     if text == text[::-1]:
-#         print("Palindrome")
-#     else:
-#         print("Not palindrome")
+def Running_sum(nums):
+    empty_list = []
 
-# print(palindrome(text))
+    total = 0
+    for i in range(len(nums)):
+        total += nums[i]
+        empty_list.append(total)
+
+    return empty_list
+
+print(Running_sum(nums))
+
+
+
+
+# 9. Palindrome Number
+
+# hint: read the number from left to right or right to left always
+# get a same number like nums = 121 , 212
+text = input("Enter here :")
+def palindrome(text):
+
+    text = text.lower()
+    if text == text[::-1]:
+        print("Palindrome")
+    else:
+        print("Not palindrome")
+
+print(palindrome(text))
 
 
 # 15 3 Sum problem leetcode 
