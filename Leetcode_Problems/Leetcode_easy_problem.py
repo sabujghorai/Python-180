@@ -112,11 +112,10 @@ current = node1
 while current != None:
     next_node = current.next # 20
     current.next = prev # None
-    prev = current
-    current = next_node
+    prev = current # 10
+    current = next_node 
     
-
-    
+ 
 n1 = prev
 while(n1 != None):
     print(n1.data,end=" -> ")
