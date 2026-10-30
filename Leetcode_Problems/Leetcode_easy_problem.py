@@ -110,8 +110,8 @@ prev = None
 current = node1
 
 while current != None:
-    next_node = current.next
-    current.next = prev
+    next_node = current.next # 20
+    current.next = prev # None
     
 
     
