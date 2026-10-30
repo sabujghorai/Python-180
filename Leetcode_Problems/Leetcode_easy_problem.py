@@ -115,7 +115,7 @@ while current != None:
     prev = current # 10
     current = next_node 
     
- 
+
 n1 = prev
 while(n1 != None):
     print(n1.data,end=" -> ")
