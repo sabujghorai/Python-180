@@ -109,7 +109,4 @@ n1 = node1
 while(n1 != None):
     print(n1.data,end=" -> ")
     n1 = n1.next
-print("None")
-
-    
-        
+print("None")    
