@@ -105,7 +105,17 @@ node1.next = node2
 node2.next = node3
 node3.next = node4
 
-n1 = node1
+
+prev = None
+current = node1
+
+while current != None:
+    next_node = current.next
+    current.next = prev
+    
+
+    
+n1 = prev
 while(n1 != None):
     print(n1.data,end=" -> ")
     n1 = n1.next
