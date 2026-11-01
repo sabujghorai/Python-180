@@ -110,7 +110,8 @@ current = node1
 
 while current != None:
     next_node = current.next
-    prev 
+    prev = current
+    
 
 
 n1 = node1
