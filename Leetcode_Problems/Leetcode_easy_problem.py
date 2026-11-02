@@ -106,15 +106,6 @@ node2.next = node3
 node3.next = node4
 
 prev = None
-current = node1
-
-while current != None:
-    next_node = current.next
-    current.next = prev
-    prev = current
-    current = next_node
-
-
 
 n1 = prev
 while(n1 != None):
