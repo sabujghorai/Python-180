@@ -90,3 +90,17 @@ print(solution.threeSum(nums))
 # Reverse linked list
 # Input: head = [1,2,3,4,5]
 # Output: [5,4,3,2,1]
+
+
+class Node:
+    def __init__(self,head,next = None):
+        self.head = head
+        self.next = next
+
+
+node1 = Node(10)
+node2 = Node(20)
+node3 = Node(30)
+node4 = Node(40)
+
+
