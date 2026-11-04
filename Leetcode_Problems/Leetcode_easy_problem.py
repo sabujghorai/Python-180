@@ -105,3 +105,9 @@ node4 = Node(40)
 node1.next = node2
 node2.next = node3
 node3.next = node4
+
+while node1 is not None:
+    print(node1.data, end=" -> ")
+    node1 = node1.next
+
+print("None")
