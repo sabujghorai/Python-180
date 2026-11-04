@@ -121,6 +121,3 @@ while n1 is not None:
     n1 = n1.next
 
 print("None")
-
-
-
