@@ -122,5 +122,3 @@ while n1 is not None:
 
 print("None")
 
-
-
