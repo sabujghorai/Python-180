@@ -112,9 +112,10 @@ current = node1
 while current is not None:
     next_node = current.next
     current.next = prev
+    prev = current
+    current = next_node
 
-
-n1 = node1
+n1 = prev
 while n1 is not None:
     print(n1.data, end=" -> ")
     n1 = n1.next
