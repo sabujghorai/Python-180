@@ -113,6 +113,7 @@ while current is not None:
     next_node = current.next
     current.next = prev
     prev = current
+    current = next_node
 
 n1 = prev
 while n1 is not None:
