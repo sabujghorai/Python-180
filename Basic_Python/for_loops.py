@@ -30,7 +30,7 @@ for j in range(1,5): # range(start,stop)
     print(j)
 print("range(1,5) ends here")
 
-for k in range(1,6,2): # range(start? , stop, step)
+for k in range(1,6,2): # range(start , stop, step)
   print(k)
 print("range(1,6,2) ends here")
 
