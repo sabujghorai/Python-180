@@ -47,7 +47,7 @@ def print_length(a):
 
 print_length(number) # function call
 
-# WA function to print the element of a list in a single line (list is a parameter)
+# WAP function to print the element of a list in a single line (list is a parameter)
 
 element = ["sabuj","ghorai","akash","ghorai"]
 
