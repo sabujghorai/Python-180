@@ -1,7 +1,9 @@
-element = ["sabuj","ghorai","akash","ghorai"]
+b = int(input("Enter a number :"))
 
-def one(a):
-  for item in a:
-    print(item,end = " ")
+def print_fact(a):
+  fact = 1
+  for i in range(1,a+1):
+    fact = (fact*i)
+  print("factorial of your given number is :",fact)
 
-one(element)
+print_fact(b)
