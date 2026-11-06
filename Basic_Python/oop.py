@@ -171,7 +171,6 @@ class Person:
     def changeName(cls, name):
         cls.name = name
 
-
 p1 = Person()
 p1.changeName("Akash Ghorai")
 
