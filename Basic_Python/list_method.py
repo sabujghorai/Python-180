@@ -16,7 +16,7 @@ list = ['apple','cat','banana','duck','kolkata','zoo','prize','super']
 list.append('gopal') 
 print(list)# add 'gopal' at the end
 list.sort()
-print(list) # sort the value in the ascending order
+print(list) # sort the value in the alphabetic order
 list.reverse()
 print(list) # reverse the list value
 list.sort(reverse = True)
