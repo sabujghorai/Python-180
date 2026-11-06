@@ -6,22 +6,18 @@ def show(n):
     return
   print(n)
   show(n-1) # function call
-
 show(b)
 
 # print the factorial of a number using recursion taking from user input
 
 b = int(input("Enter a number :"))
-
 def fact(a):
   if(a == 0):
     return 1
   return a*fact(a-1)
-
 print("factorial of your given number is :",fact(b))
 
 # print the sum of all n natural numbers
-
 n = int(input("Enter a number :"))
 def sum(n):
     if (n == 0 ):
@@ -33,7 +29,6 @@ print("sum of your all natural number is :",sum(b))
 
 # fibonacci series of n term taking input from user
 n = int(input("Enter the term :"))
-
 def fibo(n):
     if (n == 0):
         return 0
@@ -49,7 +44,6 @@ def power(a, b):
     if b == 0:
         return 1
     return a * power(a, b - 1)
-
 a = int(input("Enter base: "))
 b = int(input("Enter power: "))
 print("Result:", power(a, b))
