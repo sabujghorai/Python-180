@@ -29,10 +29,8 @@ a.reset_pass()
 
 class Person:
     __name = "hello"
-
     def __hello(self):
         print("hello users")
-
     def welcome(self):
         self.__hello()
 
