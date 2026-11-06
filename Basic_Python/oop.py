@@ -181,16 +181,13 @@ print(Person.name)
 
 # property decorator
 class Student:
-
     def __init__(self, phy, chem, math):
         self.phy = phy
         self.chem = chem
         self.math = math
-
     @property
     def percentage(self):
         return f"{(self.phy + self.chem + self.math) / 3}%"
-
 
 a = int(input("Enter marks of physics: "))
 b = int(input("Enter marks of chemistry: "))
