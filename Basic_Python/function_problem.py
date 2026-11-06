@@ -72,7 +72,7 @@ print_fact(b)
 
 # write a program to convert USD to INR
 
-b = int(input("Enter your USD value :"))
+b = int(input("Enter your USD value : "))
 
 def inr_value(USD):
   print(b ,"USD =",USD*89.5,"INR")
