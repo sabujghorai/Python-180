@@ -1,9 +1,8 @@
-b = int(input("Enter a number :"))
+a = int(input("Enter a number :"))
 
-def print_fact(a):
-  fact = 1
-  for i in range(1,a+1):
-    fact = (fact*i)
-  print("factorial of your given number is :",fact)
+def fact(a):
+  if(a == 0):
+    return 1
+  return a*fact(a-1)
 
-print_fact(b)
+print("factorial of your given number is :",fact(a))
