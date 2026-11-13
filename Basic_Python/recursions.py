@@ -48,7 +48,6 @@ def power(a, b):
 a = int(input("Enter base: "))
 b = int(input("Enter power: "))
 print("Result:", power(a, b))
-
 def count_digits(n):
     if n == 0:
         return 0
