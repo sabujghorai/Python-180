@@ -15,5 +15,5 @@ node3.next = node4
 n1 = node1
 while n1 is not None:
     print(n1.data,end=" -> ")
-    n1.next = n1
+    n1 = n1.next
 print("None")
