@@ -11,8 +11,9 @@ node4 = Node(40)
 node1.next = node2
 node2.next = node3
 node3.next = node4
+node4.next = None
 
 n1 = node1
 while n1 is not None:
     print(n1.data,end=" -> ")
-    
+print("None")
