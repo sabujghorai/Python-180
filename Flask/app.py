@@ -17,6 +17,7 @@ prev = None
 
 while p1 is not None:
     p1.next = None
+    prev = p1.next
 
 n1 = node1
 while n1 is not None:
