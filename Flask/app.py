@@ -12,6 +12,12 @@ node1.next = node2
 node2.next = node3
 node3.next = node4
 
+p1 = node1
+prev = None
+
+while p1 is not None:
+    p1.next = None
+
 n1 = node1
 while n1 is not None:
     print(n1.data,end=" -> ")
