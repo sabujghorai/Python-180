@@ -15,8 +15,6 @@ node3.next = node4
 p1 = node1
 prev = None
 
-
-
 n1 = node1
 while n1 is not None:
     print(n1.data,end=" -> ")
