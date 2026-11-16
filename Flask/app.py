@@ -16,7 +16,6 @@ p1 = node1
 prev = None
 
 while p1 is not None:
-    p1
 
 n1 = node1
 while n1 is not None:
