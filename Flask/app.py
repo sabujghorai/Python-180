@@ -16,7 +16,7 @@ p1 = node1
 prev = None
 
 while p1 is not None:
-    p1.next = None
+    p1.next =
 
 
 n1 = node1
