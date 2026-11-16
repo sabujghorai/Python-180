@@ -12,7 +12,6 @@ node1.next = node2
 node2.next = node3
 node3.next = node4
 
-p1 = node1
 
 
 n1 = node1
