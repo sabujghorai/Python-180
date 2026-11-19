@@ -105,7 +105,6 @@ class Fortuner(ToyotaCar):
     def __init__(self, type):
         self.type = type
 
-
 car1 = Fortuner("Electric car")
 
 car1.start()
